@@ -1,1 +1,0 @@
-Enter the Input file path or folder path to the respective text box. Enter Output file path to output specific text box and click generate button
